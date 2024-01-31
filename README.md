@@ -2,7 +2,7 @@
 
 Adapted template from https://github.com/MashedP/dlip-pytorch-DL-good-practises.
 
-This framework uses hydra and tensorboard to monitor deep learning experiments. The current code is meant to train simple MLPs on the USPS dataset.
+This framework uses hydra and tensorboard to monitor deep learning experiments. The current code is designed to train simple linear models on the USPS dataset.
 
 ## Project Structure
 
